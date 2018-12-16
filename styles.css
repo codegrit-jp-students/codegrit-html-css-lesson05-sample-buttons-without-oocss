@@ -1,0 +1,19 @@
+.button1 {
+  background-color: #4ABCBA;
+  font-size: 13px;
+  padding: 7px 12px;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.button2 {
+  background-color: #D9728E;
+  font-size: 15px;
+  padding: 15px 30px;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 5px;
+  color: #fff;
+}
